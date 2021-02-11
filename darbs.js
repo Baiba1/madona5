@@ -6,4 +6,7 @@ function home(){
     window.location.replace("index.html");
 }
 
+function Sanija(){
+    window.location.replace("Sanija.html");
+}
 
