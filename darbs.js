@@ -9,4 +9,7 @@ function home(){
 function Sanija(){
     window.location.replace("Sanija.html");
 }
+function Patriks(){
+    window.location.replace("Patriks.html");
+}
 
